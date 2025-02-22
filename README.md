@@ -14,6 +14,39 @@ Dyson spheres are HUGE megastructures that could theoretically harness the power
 
 ---
 
+- [Could We Really Build a Dyson Sphere?](#could-we-really-build-a-dyson-sphere)
+  - [Dyson Spheres: A Comprehensive Guide](#dyson-spheres-a-comprehensive-guide)
+  - [Hunting Dyson Spheres: Refining the Search](#hunting-dyson-spheres-refining-the-search)
+  - [Dyson Spheres: Design, Energy, and Habitability](#dyson-spheres-design-energy-and-habitability)
+  - [Dyson Spheres: Motivations, Risks, and the Fermi Paradox](#dyson-spheres-motivations-risks-and-the-fermi-paradox)
+  - [Dyson Spheres: An Expanded Inquiry](#dyson-spheres-an-expanded-inquiry)
+  - [Dyson Spheres: Megastructures and Kardashev Scale](#dyson-spheres-megastructures-and-kardashev-scale)
+  - [Searching for Dyson Spheres](#searching-for-dyson-spheres)
+  - [Hunting Dyson Spheres](#hunting-dyson-spheres)
+  - [Dyson Spheres and the Search for Extraterrestrial Intelligence](#dyson-spheres-and-the-search-for-extraterrestrial-intelligence)
+  - [Dyson Sphere Designs: A Comparative Analysis](#dyson-sphere-designs-a-comparative-analysis)
+  - [Dyson Spheres Around White Dwarfs and Black Holes](#dyson-spheres-around-white-dwarfs-and-black-holes)
+  - [Engineering Challenges of Dyson Sphere Construction](#engineering-challenges-of-dyson-sphere-construction)
+  - [Dyson Sphere Construction: Materials and Challenges](#dyson-sphere-construction-materials-and-challenges)
+  - [Dyson Sphere Environmental Considerations](#dyson-sphere-environmental-considerations)
+  - [Dyson Spheres and Stellar Evolution](#dyson-spheres-and-stellar-evolution)
+  - [Dyson Spheres as Matrioshka Brains](#dyson-spheres-as-matrioshka-brains)
+  - [The Ethics of Dyson Sphere Construction](#the-ethics-of-dyson-sphere-construction)
+  - [Dyson Sphere: Implications for Humanity](#dyson-sphere-implications-for-humanity)
+  - [Dyson Spheres: Megastructures and Advanced Civilizations](#dyson-spheres-megastructures-and-advanced-civilizations)
+  - [Dyson Spheres: Science, Search, and Speculation](#dyson-spheres-science-search-and-speculation)
+  - [The Future of Dyson Spheres](#the-future-of-dyson-spheres)
+  - [Dyson Spheres: Fact or Fiction?](#dyson-spheres-fact-or-fiction)
+  - [Dyson Spheres: Promise and Peril](#dyson-spheres-promise-and-peril)
+  - [Dyson Spheres: Risks of Existence and Discovery](#dyson-spheres-risks-of-existence-and-discovery)
+  - [Dyson Sphere: Promise and Peril](#dyson-sphere-promise-and-peril)
+  - [Dyson Spheres: Utopian Dreams, Dystopian Realities](#dyson-spheres-utopian-dreams-dystopian-realities)
+  - [Dyson Sphere Technology: Future Prospects](#dyson-sphere-technology-future-prospects)
+  - [Preparing for a Dyson Sphere](#preparing-for-a-dyson-sphere)
+
+
+---
+
 ## Dyson Spheres: A Comprehensive Guide
 
 Here is a study guide to help you progress from knowing nothing to knowing everything about Dyson Spheres.
